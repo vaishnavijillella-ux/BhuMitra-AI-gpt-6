@@ -1,0 +1,10 @@
+{
+  "name": "Remix BhuMitra AI - Smart Crop \u0026 Farming Advisor",
+  "description": "Smart agriculture companion for farmers: select crops, get AI advice with Google Search grounding, image crop disease diagnosis, and multilingual voice readout in English, Tamil, Telugu & Hindi.",
+  "requestFramePermissions": [
+    "GEOLOCATION"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
